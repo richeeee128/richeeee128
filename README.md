@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richeeee128
 - 👀 I’m interested in book, study, create
-- 🌱 I’m currently learning github, jQuery, React, VanillaJS
+- 🌱 I’m currently learning git, jQuery, React, VanillaJS
 
 <!---
 richeeee128/richeeee128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
